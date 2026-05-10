@@ -106,7 +106,6 @@ La aplicacion incluira las siguientes funciones:
 
 # Objetivos del proyecto
 
-## Objetivo general
 
 Desarrollar una aplicacion de monitoreo de redes Wi-Fi que permita mejorar la seguridad y el control de dispositivos conectados.
 
